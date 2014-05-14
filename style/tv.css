@@ -1,0 +1,9 @@
+p, hr,
+.above-game,
+.game-explanation {
+    display: none;
+}
+
+body {
+    margin:0;
+}
